@@ -1,3 +1,4 @@
+TR
 # WebScraperTool
 - Yıldız CTI takım içi görevde hazırladığım bir araçtır. 
 - Görev Tanımı: Go Dilinde Web Sitesi Anlık Durum Takip Botu Geliştirme.
@@ -20,7 +21,8 @@
   * Bilgileri girdikten sonra terminale go run main.go yazıp ilgili verileri çekmek istediğiniz web sitesini girin.
   * İYİ ÇALIŞMALAR - EMİRCAN ALTUNTAŞ
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+EN
+# WebScraperTool
 - This is a tool I prepared for the Yıldız CTI team task.
 - Task Description: Developing a Real-Time Status Tracking Bot for Websites in Go.
 - Detailed Task Instruction: You are required to develop a real-time status tracking bot for a website in Go. The bot will check the target website every 5 minutes, reporting whether the site is accessible (up/down status) and the response time (in ms) via Telegram. If the response time exceeds 100 ms, the system will send a slowness warning to Telegram.
